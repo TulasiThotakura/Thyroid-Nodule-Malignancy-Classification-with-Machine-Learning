@@ -1,7 +1,7 @@
 # Thyroid Nodule Malignancy Classification with Machine Learning
 
 <p align="center">
-  <img src="./visuals/Banner.jpg" alt="Thyroid Nodule ML" width="600"/>
+  <img src="./visuals/Banner.png" alt="Thyroid Nodule ML" width="600"/>
 </p>
 
 ## 📄 Overview
